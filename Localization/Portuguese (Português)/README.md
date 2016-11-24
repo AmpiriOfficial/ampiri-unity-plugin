@@ -10,6 +10,16 @@ Conteúdo
 * [Integrando Third Party SDKs](#integrando-sdks-de-terceiros)
 * [Passos específicos da plataforma](#passos-específicos-da-plataforma)
 
+Suporte Ampiri
+==============
+
+* Nota: Os tutorias a seguir estão em Inglês. A versão em Português estará disponível em breve.
+
+Documentos adicionais sobre a integração do Ampiri SDK com o seu iOS e Android app pode ser encontrado clicando nos links.
+- [Tutoriais Ampiri.com](http://www.ampiri.com/tutorials/) - Tutoriais da Ampiri
+- [Guia do desenvolvedor](https://ampiri.zendesk.com/hc/en-us/articles/213857245-Publisher-s-Self-Serve-UI-User-Guide) - Guia do desenvolvedor
+- Em breve documentações adicionais!
+
 Começando
 =================
 1. Para ver o exemplo, importe AmpiriUnityDemo.package. Lá você vai ver a scene __DemoApp__ na pasta scenes e dentro da pasta __Scripts__ tem alguns exemplos de uso dos scripts da Ampiri.
