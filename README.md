@@ -3,12 +3,22 @@
 Table of contents
 =================
 
+* [Ampiri Support](#ampiri-support)
 * [Getting Started](#getting-started)
 * [Integrating Banners](#integrating-banners)
 * [Integrating Interstitials](#integrating-interstitials)
 * [Integrating Videos](#integrating-video)
 * [Integrating Third Party SDKs](#integrating-third-party-sdks)
 * [Platform Specific Steps](#platform-specific-steps)
+
+Ampiri Support
+=================
+
+Additional documentation for integrating the Ampiri SDK with your iOS/ Android app can be found by clicking the links. 
+
+- [Ampiri.com Tutorials](http://www.ampiri.com/tutorials/) - Tutorials and Sign Up to Ampiri
+- [Publisher's Self-Serve UI User Guide](https://ampiri.zendesk.com/hc/en-us/articles/213857245-Publisher-s-Self-Serve-UI-User-Guide) - Publisher's Interface
+- Additional Documentation Coming Soon!
 
 Getting Started
 =================
