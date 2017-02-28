@@ -27,6 +27,7 @@ Getting Started
 4. Ad unit IDs must be set before requesting for any ads:
 
 ```
+[SerializeField] AdsSdk ampiriSDK;
 ampiriSDK.AndroidVideoPlaceId = "Your Ad Unit ID";         
 ampiriSDK.AndroidFullscreenPlaceId = "Your Ad Unit ID";         
 ampiriSDK.AndroidTopPlaceId = "Your Ad Unit ID";         
@@ -36,6 +37,8 @@ ampiriSDK.IOsFullscreenPlaceId = "Your Ad Unit ID"; 
 ampiriSDK.IOsTopPlaceId = "Your Ad Unit ID";          
 ampiriSDK.IOsBottomPlaceId = "Your Ad Unit ID";
 ```
+>Note: It is neccesary to drag the AMpiri Prefab into Ampiri SDK reference.
+
 To see the sample, please import AmpiriUnityDemo.package. There you should see the __DemoApp__ scene in the scenes folder and inside the __Scripts__ folder are some example of Ampiri usage scripts
 
 Initialization
@@ -45,7 +48,7 @@ You should only call this **once** during the app lifecycle:
 [SerializeField] AdsSdk ampiriSDK;
 ampiriSDK.sdk.Init("https://api.ampiri.com", true);
 ```
-It is neccesary to drag the AMpiri Prefab into Ampiri SDK reference.
+>Note: It is neccesary to drag the AMpiri Prefab into Ampiri SDK reference.
 
 Integrating Banners
 ===================
